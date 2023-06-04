@@ -1,0 +1,15 @@
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\bin\Debug\Filekezelo.exe.config
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\bin\Debug\Filekezelo.exe
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\bin\Debug\Filekezelo.pdb
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo.csproj.AssemblyReference.cache
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\MainWindow.g.cs
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\App.g.cs
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo_MarkupCompile.cache
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo_MarkupCompile.lref
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\MainWindow.baml
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo.g.resources
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo.Properties.Resources.resources
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo.csproj.GenerateResource.cache
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo.csproj.CoreCompileInputs.cache
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo.exe
+C:\Users\szigi\source\repos\Filekezelo\Filekezelo\obj\Debug\Filekezelo.pdb

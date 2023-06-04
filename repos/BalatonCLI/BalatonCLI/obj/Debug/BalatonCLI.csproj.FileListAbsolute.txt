@@ -1,0 +1,8 @@
+C:\Users\szigi\source\repos\BalatonCLI\BalatonCLI\bin\Debug\BalatonCLI.exe.config
+C:\Users\szigi\source\repos\BalatonCLI\BalatonCLI\bin\Debug\BalatonCLI.exe
+C:\Users\szigi\source\repos\BalatonCLI\BalatonCLI\bin\Debug\BalatonCLI.pdb
+C:\Users\szigi\source\repos\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.csproj.AssemblyReference.cache
+C:\Users\szigi\source\repos\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\szigi\source\repos\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.csproj.CoreCompileInputs.cache
+C:\Users\szigi\source\repos\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.exe
+C:\Users\szigi\source\repos\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.pdb

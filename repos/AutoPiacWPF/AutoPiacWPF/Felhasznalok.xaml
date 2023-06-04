@@ -1,0 +1,41 @@
+﻿<Window x:Class="FelhasznaloKarbantarto.Windows.Felhasznalok"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FelhasznaloKarbantarto.Windows"
+        mc:Ignorable="d"
+        Title="Felhasznalok" Height="450" Width="900" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Name="FelhasznalokGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="Images\LoginUsers.jpg"/>
+        </Grid.Background>
+        <DataGrid Name="Felhasznalok_adatai" Width="780" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" Margin="0,20,0,100" SelectionChanged="Felhasznalok_adatai_Changed">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="30" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Felhasználónév" Width="120" Binding="{Binding FelhasznaloNeve}"/>
+                <DataGridTextColumn Header="Teljes név" Width="120" Binding="{Binding TeljesNev}"/>
+                <DataGridTextColumn Header="Salt" Width="150" Binding="{Binding Salt}"/>
+                <DataGridTextColumn Header="Hash" Width="150" Binding="{Binding Hash}"/>
+                <DataGridTextColumn Header="E-mail" Width="130" Binding="{Binding Email}"/>
+                <DataGridTextColumn Header="Jog" Width="30" Binding="{Binding Jogusultsag}"/>
+                <DataGridTextColumn Header="Aktív" Width="42" Binding="{Binding Aktiv}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Felhasználónév:" HorizontalAlignment="Left" Margin="60,320,0,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508"/>
+        <TextBox Name="txb_FelhasznaloNev" HorizontalAlignment="Left" Margin="179,325,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14" MaxLength="30"/>
+        <Label Content="Jelszó:" HorizontalAlignment="Left" Margin="310,320,100,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508"/>
+        <PasswordBox Name="pwb_Password" HorizontalAlignment="Left" Margin="370,325,0,0" Password="" VerticalAlignment="Top" Width="120" FontSize="14"  MaxLength="30"/>
+        <Label Content="Teljes név:" HorizontalAlignment="Left" Margin="510,320,0,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508"/>
+        <TextBox Name="txb_TeljesNev" HorizontalAlignment="Left" Margin="600,325,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14"  MaxLength="50"/>
+        <Label Content="E-mail cím:" HorizontalAlignment="Left" Margin="60,350,0,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508"/>
+        <TextBox Name="txb_Email" HorizontalAlignment="Left" Margin="160,355,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" FontSize="14" MaxLength="50"/>
+        <Label Content="Jogosultság:" HorizontalAlignment="Left" Margin="310,350,0,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508"/>
+        <ComboBox Name="cmb_Jogosultsag" HorizontalAlignment="Left" Margin="410,355,0,0" VerticalAlignment="Top" FontSize="14" Width="35" />
+        <Label Content="Aktív:" HorizontalAlignment="Left" Margin="510,350,0,0" VerticalAlignment="Top" Cursor="AppStarting" FontSize="14" FontWeight="Bold" Foreground="#FF050508"/>
+        <ComboBox Name="cmb_Aktiv" HorizontalAlignment="Left" Margin="565,355,0,0" VerticalAlignment="Top" FontSize="14" Width="35" />
+        <Button Name="btn_Tarolas" Content="Tárolás" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="-200,375,0,0" Click="btn_Tarolas_Click" />
+        <Button Name="btn_Modositas" Content="Módosítás" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,375,0,0" Click="btn_Modositas_Click" />
+        <Button Name="btn_Torles" Content="Törlés" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="200,375,0,0" Click="btn_Torles_Click" />
+    </Grid>
+</Window>

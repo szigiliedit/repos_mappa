@@ -1,0 +1,9 @@
+C:\Users\szigi\source\repos\Iskola\Iskola\bin\Debug\Iskola.exe.config
+C:\Users\szigi\source\repos\Iskola\Iskola\bin\Debug\Iskola.exe
+C:\Users\szigi\source\repos\Iskola\Iskola\bin\Debug\Iskola.pdb
+C:\Users\szigi\source\repos\Iskola\Iskola\obj\Debug\Iskola.csproj.AssemblyReference.cache
+C:\Users\szigi\source\repos\Iskola\Iskola\obj\Debug\Iskola.csproj.SuggestedBindingRedirects.cache
+C:\Users\szigi\source\repos\Iskola\Iskola\obj\Debug\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\szigi\source\repos\Iskola\Iskola\obj\Debug\Iskola.exe
+C:\Users\szigi\source\repos\Iskola\Iskola\obj\Debug\Iskola.pdb
+C:\Users\szigi\source\repos\Iskola\Iskola\bin\Debug\nevek.txt

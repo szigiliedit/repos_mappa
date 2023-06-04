@@ -1,0 +1,24 @@
+﻿<Window x:Class="AutoPiacWPF.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoPiacWPF"
+        mc:Ignorable="d"
+        Title="Bejelentkezés" Height="280" Width="360" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="Bejelentkezés" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Click="Login_Click"/>
+        <TextBox Name="UserName" HorizontalAlignment="Center" Margin="0,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300" MaxLength="30" TextChanged="UserName_TextChanged">
+            <TextBox.Background>
+                <ImageBrush ImageSource="Images\fn.jpg" AlignmentX="Left" AlignmentY="Center" Stretch="None"/>
+            </TextBox.Background>
+        </TextBox>
+        <PasswordBox Name="Password" HorizontalAlignment="Center" Margin="0,165,0,0" VerticalAlignment="Top" Width="300" MaxLength="30" PasswordChanged="Password_TextChanged">
+            <PasswordBox.Background>
+                <ImageBrush ImageSource="Images\pw.jpg" AlignmentX="Left" AlignmentY="Center" Stretch="None"/>
+            </PasswordBox.Background>
+        </PasswordBox>
+        <Image HorizontalAlignment="Left" Height="100" Margin="180,40,0,0" VerticalAlignment="Top" Width="100"/>
+        <Image HorizontalAlignment="Center" Height="100" Margin="0,15,0,0" VerticalAlignment="Top" Width="100" Source="Images\LoginUsers.jpg"/>
+    </Grid>
+</Window>

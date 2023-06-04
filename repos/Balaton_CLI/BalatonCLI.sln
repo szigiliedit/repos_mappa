@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalatonCLI", "BalatonCLI\BalatonCLI.csproj", "{33ABABE2-24DB-4D80-AE3F-6352483EA296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ABABE2-24DB-4D80-AE3F-6352483EA296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ABABE2-24DB-4D80-AE3F-6352483EA296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ABABE2-24DB-4D80-AE3F-6352483EA296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ABABE2-24DB-4D80-AE3F-6352483EA296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1A7145-D99F-4005-AD5B-972461C708FF}
+	EndGlobalSection
+EndGlobal

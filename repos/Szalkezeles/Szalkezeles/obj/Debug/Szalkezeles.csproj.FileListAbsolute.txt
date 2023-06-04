@@ -1,0 +1,8 @@
+C:\Users\szigi\source\repos\Szalkezeles\Szalkezeles\bin\Debug\Szalkezeles.exe.config
+C:\Users\szigi\source\repos\Szalkezeles\Szalkezeles\bin\Debug\Szalkezeles.exe
+C:\Users\szigi\source\repos\Szalkezeles\Szalkezeles\bin\Debug\Szalkezeles.pdb
+C:\Users\szigi\source\repos\Szalkezeles\Szalkezeles\obj\Debug\Szalkezeles.csproj.AssemblyReference.cache
+C:\Users\szigi\source\repos\Szalkezeles\Szalkezeles\obj\Debug\Szalkezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\szigi\source\repos\Szalkezeles\Szalkezeles\obj\Debug\Szalkezeles.csproj.CoreCompileInputs.cache
+C:\Users\szigi\source\repos\Szalkezeles\Szalkezeles\obj\Debug\Szalkezeles.exe
+C:\Users\szigi\source\repos\Szalkezeles\Szalkezeles\obj\Debug\Szalkezeles.pdb

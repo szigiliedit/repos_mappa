@@ -1,0 +1,16 @@
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\bin\Debug\IskolaWPF.exe.config
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\bin\Debug\IskolaWPF.exe
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\bin\Debug\IskolaWPF.pdb
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF.csproj.AssemblyReference.cache
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\App.g.cs
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF_MarkupCompile.cache
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF_MarkupCompile.lref
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\MainWindow.baml
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF.g.resources
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF.Properties.Resources.resources
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF.csproj.GenerateResource.cache
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF.csproj.CoreCompileInputs.cache
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF.exe
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF.pdb
+C:\Users\szigi\source\repos\IskolaWPF\IskolaWPF\obj\Debug\IskolaWPF.csproj.SuggestedBindingRedirects.cache

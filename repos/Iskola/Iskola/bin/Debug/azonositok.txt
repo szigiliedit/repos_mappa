@@ -1,0 +1,650 @@
+Bodnar Szilvia  6cbodszi
+Rasztik Gyorgy  5brasgyo
+Muller Reka  6emulrek
+Maltesics Fanni  5bmalfan
+Csermak Edit  7acseedi
+Somlyo Ildiko  6asomild
+Boros Petra  7cborpet
+Gaal Daniel  4dgaadan
+Hirth Ferenc  7ahirfer
+Nagy Katalin  4anagkat
+Csepregi Daniel  4dcsedan
+Kovacs Orsolya  5bkovors
+Refi Csaba  4erefcsa
+Denes Anna  4bdenann
+Szabo Brigitta  4bszabri
+Huszar Renato Pal  4chusren
+Kovacs Zsofia  4dkovzso
+Vavrek Kristof  4dvavkri
+Hidas Reka  6ehidrek
+Kun Michael  6dkunmic
+Ruff Noemi  7arufnoe
+Berze Eva  7bbereva
+Endredy Lakatos Margit  4aendlak
+Salanki Eszter Rita  4bsalesz
+Magyar Vivien Evelin  5dmagviv
+Csermak Roza  7acseroz
+Barta Gergo  7dbarger
+Dobos Andras  6ddoband
+Magat Klaudia  4amagkla
+Schmidt Borbala  4cschbor
+Szabo Mihaly  5aszamih
+Boganyi Margaret  4dbogmar
+Weidinger Peter  5dweipet
+Petrik Zsofia  7epetzso
+Tolcsvay-Nagy Reka Luca  4atolrek
+Fabian Aniko  5efabani
+Berndt Martin  4cbermar
+Matefi Mercedesz  5ematmer
+Matefi Emese  5amateme
+Orso Andras  5dorsand
+Varga Zsuzsa  6evarzsu
+Farkas Zsuzsa  7afarzsu
+Romhanyi Daniel Robert  7eromdan
+Falvay Zsanett  4efalzsa
+Szentes Zoltan  4bszezol
+Csepregi Gyorgy  7ccsegyo
+Romhanyi Rebeka  4dromreb
+Laczko Reka  4blacrek
+Kardos Istvan  7ekarist
+Janosi Mihaly  6ajanmih
+Farkas Steven  7bfarste
+Horvath Janet  7bhorjan
+Csaba Dora  5ecsador
+Kucsera Jesus  7dkucjes
+Csepregi Mihaly  7ccsemih
+LotsosRicky Kinga  5alotkin
+Hozman Richard  4bhozric
+Rasztik Dora  6drasdor
+Dohoczki Maria  7adohmar
+Maller Akos  5amalako
+Bene Eszter  4ebenesz
+Wagner Endre  6bwagend
+Bengi Sandor  6bbensan
+Lehotzky Oliver  7dleholi
+Bakos Reka  6dbakrek
+Varga Zsofia  7bvarzso
+Hangyasi Kristof  5bhankri
+Gonda Gyorgy  6dgongyo
+Stang Tamas  4cstatam
+Nemeth Tamas  5enemtam
+Tapai Anne  7etapann
+Deri Dina  7bderdin
+Madarasz Edina  7bmadedi
+Lemak Veronika  5elemver
+Kiraly Balint  6ekirbal
+Kovacs Krisztina Judit  7akovkri
+Homola Sandor  7bhomsan
+Dettai Felicia  6edetfel
+Novak Beata  4dnovbea
+Hirth Janos  5chirjan
+Nagymarosy Natalie  7bnagnat
+Mattyus Balazs  6cmatbal
+Gonda Bela  5agonbel
+Wagner Istvan  6cwagist
+Hegyi Roza  7bhegroz
+Hatala Roza  7dhatroz
+Vaszil Krisztina  7evaskri
+Vanyur Reka  5dvanrek
+Bajor Mark  4dbajmar
+Kriszten David  5dkridav
+Molnar Adam  6emolada
+Palinkas Antal  7epalant
+Bruder Barbara  7cbrubar
+Pifku Bence  4bpifben
+Joo Peter  5ejoopet
+Kiss Beatrix  6bkisbea
+Sandor Miklos  6csanmik
+Berezvai Jozsef  6bberjoz
+Lehotzky Arthur  5alehart
+Mangult Bettina  7emanbet
+Joo Krisztian  5bjookri
+Sitku Natalia  5csitnat
+Bodnar Richard  5abodric
+Szabo David  7bszadav
+Wolff Viktoria  4bwolvik
+Varga Gergely  5evarger
+Monostori Mihaly  5bmonmih
+Balogh Dora  6bbaldor
+Nagy Judit  4enagjud
+Kulcsar Tamas  6bkultam
+Hangyasi Boglarka  4chanbog
+Kovacs Gabor  5ekovgab
+Pridalko Vilmos  4eprivil
+Kovacs Aron  6akovaro
+Buchanan Zoltan Csaba  7bbuczol
+Molnar Viktoria  5amolvik
+Fule Noemi  6dfulnoe
+Erdohelyi Csilla  6cerdcsi
+Renyi Ferenc  4arenfer
+Kophazi Ildiko  4dkopild
+Kis Viktoria  4dkisvik
+Fuller Zsuzsanna  4efulzsu
+Csanyi Zsuzsa  5ccsazsu
+Sarvari Piroska  7bsarpir
+Balazs Pal  7ebalpal
+Mezo Sandor  4bmezsan
+Wellington Tunde  6cweltun
+Gombos Beata  4egombea
+Bordas Vivien Evelin  7aborviv
+Kocsis Gergo  4ckocger
+Callahan Kitti  5ecalkit
+Bodor Bettina  5abodbet
+Schiller Krisztina  4dschkri
+Balogh Agnes  6abalagn
+Vadkerti Viktoria  5bvadvik
+Lehotzky Gabor  5dlehgab
+Keri Marta  7ckermar
+Sarosdi Dora  7asardor
+Hargitai Ildiko  7charild
+Mate Aron  7bmataro
+Stang Istvan  6cstaist
+Pal Janos  7cpaljan
+Negyesi Attila  7cnegatt
+Szalma Diana  5cszadia
+Szabo Jesus  5eszajes
+Tapay Janos Tamas  7dtapjan
+Balazs Istvan  4abalist
+Bogar Marta  4ebogmar
+Toman Istvan  4etomist
+Balogh Edina  5abaledi
+Nemeth Diana  5bnemdia
+Lehotzky Adam Gabor  4alehada
+Karatson Kristof  4ckarkri
+Batkai Kinga  5dbatkin
+Domokos Tunde  5cdomtun
+Barkasz Csilla  7dbarcsi
+Hidas Zoltan Csaba  4dhidzol
+Bohdaneczky Adrienn  5bbohadr
+Hamza Vivien  4ehamviv
+Valo Adam Gabor  5bvalada
+Mate Laszlo  7cmatlas
+Bodnar Emese  6cbodeme
+Jedlovszky Gellert Sandor  5ejedgel
+Takacs Melinda  6atakmel
+Barta Gergo  7bbarger
+Somlyo Steven  6asomste
+Lehotzky Janos  6dlehjan
+Kiss Reka  6ekisrek
+Hatala Ilona  5chatilo
+Nagy Janos  7bnagjan
+Szekely Mate  7aszemat
+King Mercedesz  5dkinmer
+Szabados Viktoria  6aszavik
+Tompos Adam Gabor  5etomada
+Bauer Krisztina  6dbaukri
+Major Anna  6bmajann
+Gyocsi Ildiko  7cgyoild
+Fulop Tamas  5cfultam
+Vajda Fruzsina Borbala  6avajfru
+Magat Noemi  7bmagnoe
+Schmidt Andras  5aschand
+Pinter Sandor  5epinsan
+Kiraly Istvan  5ckirist
+Bruder Krisztina  5ebrukri
+Mattyus Diana  5ematdia
+Gerse Andras  5agerand
+Elek Balazs  6aelebal
+Batkai Antal  6abatant
+Csepregi Korl  7ccsekor
+Dylski Judit  4cdyljud
+Bodi Monika  7bbodmon
+Kovacs Leila  7akovlei
+Rabai Viktoria  6brabvik
+Bolyos Borbala  6cbolbor
+Ignacz Mercedesz Marta  6dignmer
+Bodor Klara  5abodkla
+Batkai Szabina  6dbatsza
+Katona Boglarka  4ckatbog
+Gaal Peter  4bgaapet
+Kovacs Jozsef  5ckovjoz
+Domokos Krisztina  4adomkri
+TolcsvayNagy Daniel Robert  5dtoldan
+Fialowski Olga Zsofia  5bfiaolg
+Kiraly Zoltan  6akirzol
+Csermak Henrik  6ecsehen
+Ivancsik Edit  7divaedi
+Vagner Peter  4bvagpet
+Elbert Bence  7delbben
+Kun David  4bkundav
+Farkas Tunde  4cfartun
+Pazmany Emese  7dpazeme
+Iszaly Karoly  4diszkar
+Bihacker Szabolcs Tivadar  4cbihsza
+Karatson Patricia Mercedesz  4dkarpat
+Laczkovics Lakatos Margit  4dlaclak
+Kovacs Reka  6akovrek
+Ihasz Bernadett  7cihaber
+Molnar Krisztina  7dmolkri
+Komlos Lakatos Margit  7ekomlak
+Miskolczi Reka  6emisrek
+Borka Adam Gabor  6cborada
+Hollos Eva  6eholeva
+Szalma Erno  7bszaern
+Bodnar Gyula  7ebodgyu
+Krizsan Adrienn  4bkriadr
+Fekete Szilvia  4efekszi
+Zacher Karoly  6azackar
+Prokopp Reka  6aprorek
+Toman Zsofia  6ctomzso
+Pazmany Alessandro  5epazale
+Simon Szabolcs Tivadar  4esimsza
+Kuller Andrea  5ekuland
+Bognar Frank  6dbogfra
+Szalma Luca Krisztina  7cszaluc
+Keri Julio  4ekerjul
+Beres Zoltan  7dberzol
+Farkas Janet  4dfarjan
+Komlos Zoltan  5bkomzol
+Wootsch Gergely  7awooger
+Lehotzky Dorottya  7blehdor
+Valo Istvan  7cvalist
+Bilicska Daniel Robert  7cbildan
+Bako Balazs Istvan  6bbakbal
+Vari Renata  4dvarren
+Callahan Attila  5acalatt
+Antalfi Akos  4bantako
+Miller Gabor  7bmilgab
+Lemak Andrea  4elemand
+Csanyi Zsuzsa  6dcsazsu
+Csetnegi Andre  4acseand
+Cselotei Balazs  5dcsebal
+Voros Kitti Noemi  5dvorkit
+Denes Ildiko  6bdenild
+Czulek Gyorgy  6aczugyo
+Berze Dalma  7dberdal
+Lendvai Gyula  6dlengyu
+Kelan Istvan  5dkelist
+Boka Daniel Andras  7abokdan
+Pinter Tunde  6bpintun
+Peter Fruzsina  7epetfru
+Pazmany Kristof  4dpazkri
+Arkossy Daniel  7earkdan
+Berzlanovich Imre  4eberimr
+Denes Zsuzsa  6cdenzsu
+Bakos Gergely  6cbakger
+Hegedus Tamas  5chegtam
+Banfi Akos  5dbanako
+Kovacs Laura  6dkovlau
+Denes Gyorgy  5edengyo
+Horvath Gyorgy  4bhorgyo
+Klezly Bettina  4eklebet
+Szabo Ildiko  7dszaild
+Barkasz Katalin  6bbarkat
+Goldberg Marta  5dgolmar
+Farkas Gyorgy  6afargyo
+Emho Petra  7cemhpet
+Koschler Tamas  4bkostam
+Madarasz Nikolett  5amadnik
+Lemak Janos  4blemjan
+Kovacs Lajos  6akovlaj
+Orso Christopher  7borschr
+Prokopp Viktoria  6bprovik
+Beke Andras  6ebekand
+Denes Anna  7adenann
+Zsigmondi Zoltan  4bzsizol
+Csetnegi Szilvia  4bcseszi
+Ruff Gabor  5drufgab
+Szabo Attila  6cszaatt
+Fried Tamas  6dfritam
+Szabo Allan  5cszaall
+Forgacs Richard  5cforric
+Arkossy Reka  5barkrek
+Hangyasi Gyula  5dhangyu
+Hegedus Agnes  6ahegagn
+Malovics Reka Luca  6bmalrek
+Molnar Tamas  5cmoltam
+Illyes Erno  5aillern
+Cselotei Maria  5ccsemar
+Toman Beatrix  6btombea
+Meszaros Andrea  7emesand
+Totka Gergo  6btotger
+Mitlasovszki Mercedesz  5amitmer
+Horvath Csilla Livia  6bhorcsi
+Scholz Akos  6cschako
+Farkas Edit  5efaredi
+Unk Anne  4dunkann
+Monostori Gergo  5emonger
+Feher Viktoria  5afehvik
+Gombor Thomas  5egomtho
+Saghy Istvan  5esagist
+Katona Peter  5ekatpet
+Fialowski Szilvia  7efiaszi
+Kovacs Jozsef  4bkovjoz
+Wellington Peter  5cwelpet
+Suyama Krisztian  7asuykri
+Unk Eszter  6bunkesz
+Kettesy Zsofia  7eketzso
+Illes Viktoria  7aillvik
+Peter Peter  5epetpet
+Fried Eszter Leticia  7dfriesz
+Varga Brigitta  5avarbri
+Callahan Eszter  4ecalesz
+Eszes Ildiko  5eeszild
+Mezo Istvan  4bmezist
+Pomothy Gyorgy  4bpomgyo
+Berndt Oliver  5dberoli
+Pinter Tunde  6apintun
+Marton Richard  7cmarric
+Borka Edina  4dboredi
+Balogh Imre  6dbalimr
+Alahrawi Balint  5balabal
+Csaba Attila  4ccsaatt
+Homola Leila  4dhomlei
+Palfi Leila  4dpallei
+Ivacs Zsolt  7bivazso
+Farkas Dora  5efardor
+Mitlasovszki Eszter Adel  6amitesz
+Komlos Allan  7dkomall
+Szabo Janos Tamas  6eszajan
+Vido Jesus  7evidjes
+Csermenyi Balint  4ccsebal
+Bilicska Gyorgy  6ebilgyo
+Berghoffer David  5bberdav
+Bohdaneczky Arthur  6dbohart
+Maller Attila  6bmalatt
+Muller Karoly  4dmulkar
+Mangult Reka  5bmanrek
+Czmarko Istvan  6bczmist
+Jambrik Daniel  7ajamdan
+Lukacs Viktor  7alukvik
+Bolyos Adam Ferenc  5ebolada
+Hermann Istvan  7cherist
+Nagy Istvan  7dnagist
+Bekes Viktoria  4abekvik
+Elek Anne  6eeleann
+Balazs Nikolett  4bbalnik
+Ilcsik Bence  6cilcben
+Saghy Dorottya  5esagdor
+Palfi Vilmos  5apalvil
+Berky Renato Pal  5aberren
+Peacock Katalin  5cpeakat
+Reyes Adrienn  7breyadr
+Kovacs Patrik  6akovpat
+Gulyas Krisztina  6cgulkri
+Rakoczi Frank  4drakfra
+Barkasz Matyas  7dbarmat
+Beres Gyula  7dbergyu
+Pasztor Zsofia  4cpaszso
+Mangult Akos  4dmanako
+Kovacs Sandor  6akovsan
+Banfi Patricia  5cbanpat
+Orzoi Gyorgy  5corzgyo
+Bodnar Orsolya  4cbodors
+Kophazi Reka Nora  7ekoprek
+Ivacs Jozsef  6divajoz
+Sarkozi Bonita  5esarbon
+Denes Szabina  6cdensza
+Tombor Mercedesz  6etommer
+Erdei Daniel Andras  7aerddan
+King Tamas  4dkintam
+Erdelyi Botond  4derdbot
+Baksay Ildiko  5cbakild
+Palfi Gyorgy  4apalgyo
+Gyocsi Edit  5bgyoedi
+Matefi Antal Ferenc  5cmatant
+Ivancsik Reka  5divarek
+Gonda Edina  4cgonedi
+Vaszil Milan  5dvasmil
+Willkins Anna  4ewilann
+Emho Oliver  6demholi
+Meszaros Arpad  6emesarp
+Zsigmondi Eszter  4czsiesz
+Regos Peter  7aregpet
+Patkai Netta  5epatnet
+Kiss Balazs Istvan  5bkisbal
+Busi Dorottya  5abusdor
+Bajor Brigitta  5cbajbri
+Vajnai Zsofia  6avajzso
+Kovacs Lujein  6ekovluj
+Vancza Korl  6avankor
+Denes Katalin  4bdenkat
+Szikra Judit  7dszijud
+Jenes Andras  6cjenand
+Molnar Attila  6cmolatt
+Miskolczi Gabor  7cmisgab
+Fried Viktoria  5afrivik
+Szabados Marcell  6aszamar
+Csetnegi Zsofia  5ccsezso
+Csanyi Zsofia  6acsazso
+Banfi Kristof  5ebankri
+Fekete Istvan  6dfekist
+Bartha Eva  7dbareva
+Pomothy Gergo  7cpomger
+Fialowski Pal  5bfiapal
+Tverdota Nikolett  7etvenik
+Kovacs Marta  5ekovmar
+Berghoffer Theodor  6dberthe
+Nagy Bettina  4enagbet
+Fialowski Bettina  4afiabet
+Bator Adam  5bbatada
+Fekete Kinga  4bfekkin
+Dodsworth Noemi  4adodnoe
+Somlyo Karoly  5csomkar
+Ivancsik Istvan  4eivaist
+Komlos Korl  4akomkor
+Jenes Beatrix  7ajenbea
+Kovacs Botond  5akovbot
+Miskolczi Marton Istvan  4amismar
+Nemeth Eszter Rita  6anemesz
+Szedresi Gergely  7eszeger
+Bodor Gabor  6bbodgab
+Beres Ferenc  4aberfer
+Mate Pal  7cmatpal
+Sitku Patricia Mercedesz  6esitpat
+Nemeth Ferenc  6bnemfer
+Selley Szilvia  5aselszi
+Hangyasi Gabor  5bhangab
+Dorfler Tamas  7edortam
+Bordas Janos Oszkar  6eborjan
+Varga Theodor  5evarthe
+Wellington Zsofia  4dwelzso
+Csermenyi Zoltan  7acsezol
+Olay Zoltan  6aolazol
+Kiss Barbara  7ckisbar
+Drexler Eszter  4ddreesz
+Ivancsik Endre  6aivaend
+Hargitai Krisztina  6bharkri
+Szabados Alexandra  5eszaale
+Jakobi Lujein  4ajakluj
+Czmarko Viktoria  7bczmvik
+Kovacs Balazs Istvan  4akovbal
+Kelan Zsofia  5ckelzso
+Patkai Christopher  5dpatchr
+Kiss Mercedesz  7ekismer
+Szabo Gyula  5aszagyu
+Schneider Edit  5bschedi
+Bartha Zoltan Csaba  4cbarzol
+Kovacs Veronika  5dkovver
+Ivancsik Matyas  5eivamat
+Toman Barbara  7ctombar
+Selley Bernadett  4cselber
+Arkossy Vivien Evelin  5barkviv
+Macz Balazs  5bmacbal
+Szabo Andras  6bszaand
+Bilicska Viktoria  4abilvik
+Negyesi Andras  6cnegand
+Kovacs Anna  7ckovann
+Bodnar Frank  6bbodfra
+Farkas David  7bfardav
+Vari Erno  6cvarern
+Komlos Aniko  5bkomani
+Peter Dora  5bpetdor
+Pasztor Tunde  5epastun
+LotsosRicky Viktoria  7elotvik
+Meszaros Zoltan  7cmeszol
+Karatson Eszter Adel  7ckaresz
+Palfi Eszter  4cpalesz
+Kovacs Tamas  4dkovtam
+Kiss Renato Pal  5dkisren
+Batkai Csaba  6cbatcsa
+Kovacs David  7ekovdav
+Erdei Gyorgy  6derdgyo
+Fulop Bence  4cfulben
+Nemeth Nikolett  6cnemnik
+Lorinczi Barbara  4clorbar
+Kovacs Istvan  6ekovist
+Fekete Daniel  7afekdan
+Hozman Sandor  7ehozsan
+Pronay Tibor  7dprotib
+Homola Emese  6bhomeme
+Hollos Adrienn  6aholadr
+Sarvari Imre  7esarimr
+Batkai Richard  4ebatric
+Malovics Gergely  5cmalger
+Kardos Thomas  4ekartho
+Somogyvari Katalin  5esomkat
+Szanto Barnabas  6cszabar
+Kovacs Tunde  4bkovtun
+Bernath Peter  4bberpet
+Vasarhelyi Noemi  5evasnoe
+Onodi Eszter Adel  5aonoesz
+Maltesics Gergely  6cmalger
+Halasz Reka  5chalrek
+Lorinczi Orsolya  4blorors
+Varga Balazs  4cvarbal
+Csornyei Bence  6dcsoben
+Csornyei Csaba  6bcsocsa
+Bohdaneczky Marta  4bbohmar
+Rabai Aron  7arabaro
+Bartha Emil  5dbaremi
+Kis Martin  5akismar
+Erdei Maria  5berdmar
+Csermenyi Andras  5ecseand
+Deri Gergely  5ederger
+Varga Laura  7dvarlau
+Nagy Marcell  4bnagmar
+Farkas Zoltan  7dfarzol
+Ignacz Balazs  5bignbal
+Izsak Kristof  7bizskri
+Nagy Julio  5dnagjul
+Kovacs Peter  6bkovpet
+Kovacs Zsofia  4bkovzso
+Boros Tamas  5dbortam
+Drexler Ildiko  6adreild
+Fulop Peter  7afulpet
+Goldberg Sandor  7agolsan
+Szalma Fruzsina  7eszafru
+Somlyo Martin  4csommar
+Klezly Bence  5ckleben
+Kucsera Csaba  6bkuccsa
+Pinter Melinda  7apinmel
+Sandor Evelin  6csaneve
+Mattyus Anna  6bmatann
+Elek Bela  6eelebel
+Pal Antal  4apalant
+Csigas Maria  5ccsimar
+Reitmeyer Gabor  7breigab
+Pridalko Zsolt  5bprizso
+Bajor Sandor  7bbajsan
+Csepregi Kristof  7ccsekri
+Nagy Dina  7cnagdin
+Tompos Richard  5dtomric
+Weidinger Viktoria  5dweivik
+Berki Klaudia  5cberkla
+Emho Dorottya  6bemhdor
+Hardy Csilla  5eharcsi
+Farkas Andre  4afarand
+Balogh Aniko  6abalani
+Szentpetery Beatrix  6eszebea
+Salanki Fanni  5csalfan
+Csigas Jozsef  7dcsijoz
+Jambor Dora  4cjamdor
+Lehotzky Istvan  7alehist
+Miller Mercedesz Marta  4bmilmer
+Izsak Andrea  5bizsand
+Kiss Kristof  5dkiskri
+Resch Nancy  7aresnan
+Bodecs Roza  6dbodroz
+Simon Istvan  4csimist
+Refi Zoltan  5drefzol
+Jenes Arpad  7djenarp
+Maltesics Eszter  7bmalesz
+Peacock Kristen  7epeakri
+Tapay Istvan  7etapist
+Zsok Gabor  6czsogab
+Demeter Bence  7bdemben
+Vancza Zoltan  7bvanzol
+Endredy Adam Gabor  7dendada
+Davolio Fruzsina Borbala  5ddavfru
+Szentes Maria  4bszemar
+Mozsar Rezso  7bmozrez
+Hozman Piroska  6dhozpir
+Goldberg Beata  4bgolbea
+Sandor Tamas  6csantam
+Demeny Daniel  7edemdan
+Marton Dorottya  5bmardor
+Kovacs Mercedesz Marta  4ckovmer
+Tombor Erzsebet  6btomerz
+Farkas Monika  6afarmon
+Schneider Renato Pal  5dschren
+Domokos Gergely  4edomger
+Kulcsar Istvan  7bkulist
+Varga Emese  6dvareme
+Vari Laura  5cvarlau
+Muller Nikolett  4amulnik
+Sarvari Dorottya  6dsardor
+Vas Laura  7evaslau
+Hamza Erno Gergo  7ahamern
+Pomothy Eleonora  4dpomele
+Kiss Zsuzsa  6bkiszsu
+Bodor Attila  7cbodatt
+Forgacs Reka  4cforrek
+Cselotei Gergo  5bcseger
+Weidinger Richard  7cweiric
+Kovacs Anne  4bkovann
+Fuller Gabor  4cfulgab
+Kovacs Natalia  5akovnat
+Forgacs Beatrix  4cforbea
+Lemak Netta  7elemnet
+Keri Fruzsina Borbala  4ckerfru
+Selley Krisztian  4aselkri
+Elek Andrew  5deleand
+Gergely Anna  6bgerann
+Palinkas Luca Sara  7apalluc
+Kallai Arnold  4bkalarn
+Pifku Bettina  5dpifbet
+Buros Laszlo Endre  5dburlas
+Neher Sandor  4dnehsan
+Mirak Viktoria  7cmirvik
+Bognar Andras  7bbogand
+Bartha Balazs  7dbarbal
+Rosta Kristen  5broskri
+Tompos Istvan  7atomist
+Lendvai Kinga  5blenkin
+Deri Zsofia  5cderzso
+Zilahy Janet  4aziljan
+Czulek Veronika  7cczuver
+Klezly Dezso  4akledez
+Mate Rahel  6dmatrah
+Mattyus Nikoletta  6ematnik
+Berki Laszlo Ferenc  6cberlas
+Kiss Dezso  6ekisdez
+Iszaly Mercedesz  4diszmer
+Denes Gergo  6ddenger
+Smith Gabor  6asmigab
+Pal Krisztina Judit  4cpalkri
+Horvath Gabor  5chorgab
+Somogyvari Laura  7asomlau
+Pifku Erno Gergo  4epifern
+Berezvai Gergely Bence  6bberger
+Szekely Netta  4aszenet
+Gombaszogi Peter  5egompet
+Dorfler Barbara  5adorbar
+Pucheli Edina  5dpucedi
+Nemeth Tunde  6bnemtun
+Katona Balazs  5dkatbal
+Olay Kitti Noemi  7colakit
+Falvay Veronika  7dfalver
+Arany Olga  5caraolg
+Farkas Virag  6afarvir
+Knipf Krisztian  5cknikri
+Izsak Zoltan  7dizszol
+Tompos Zsofia  7etomzso
+Fialowski Tunde  6cfiatun
+Onodi Ildiko  7donoild
+Molnar Agnes  5cmolagn
+Pucheli Katalin  4bpuckat
+Eizen Szabina  4beizsza
+Major Tamas  4cmajtam
+Krizsan Vivien Evelin  6ckriviv
